@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [Check out my projects in web development, game mechanics, and full-stack applications! 🚀](Check out my projects in web development, game mechanics, and full-stack applications! 🚀)
 
-- ⚡ 🎮 Fun Fact: **Una vez recreé Pac-Man… ¡y terminé programando fantasmas rebeldes! 👻😂**
+- ⚡ 🎮 Fun Fact: **One time I recreated Pac-Man… and ended up programming rebellious ghosts! 👻😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
