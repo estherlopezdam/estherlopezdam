@@ -26,7 +26,7 @@ Estoy realizando mis **prácticas de DAW** en **[TuriTop](https://www.turitop.co
 ✉️ **elopezp8@gmail.com**  
 
 ## 📄 **Conoce más sobre mis experiencias:**  
-🔗 [**Descubre mis proyectos en desarrollo web, mecánicas de juegos y aplicaciones Full-Stack.**](#) 🚀  
+🔗 [**Descubre mis proyectos en desarrollo web, mecánicas de juegos y aplicaciones Full-Stack.**](#)   Working in progess....🚀  
 
 ## ⚡ **Fun Fact:**  
 🎮 **Una vez recreé Pac-Man… ¡y terminé programando fantasmas rebeldes!** 👻😂  
@@ -34,7 +34,7 @@ Estoy realizando mis **prácticas de DAW** en **[TuriTop](https://www.turitop.co
 <h3 align="left">Conecta conmigo en:</h3>
 <p align="left">
 <a href="https://twitter.com/estherlalilo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="estherlalilo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/elopezp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elopezp8" height="30" width="40" /></a>
+<a href="https:///www.linkedin.com/in/elopezp8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/elopezp8" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y Herramientas:</h3>
