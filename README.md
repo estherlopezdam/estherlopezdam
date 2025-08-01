@@ -2,8 +2,20 @@
 
 # 🚀 **Desarrolladora apasionada desde España** 💡  
 
-## 🔭 **Actualmente trabajando en:**  
-Estoy realizando mis **prácticas de DAW** en **[TuriTop](https://www.turitop.com/)**, desarrollando soluciones tecnológicas para el sector turístico.  
+## 🔭 **Actualmente trabajando en:**
+
+Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, Alicante), desarrollando el software de un **robot recepcionista inteligente** utilizado principalmente en clínicas u hoteles. Aquí mi rol y responsabilidades:
+
+- Utilizo tecnologías como **React Native**, **TypeScript**, **Node.js**, **SQL**, **Docker**, **Prisma**, **NestJS** y **GitHub**.
+- Integración de múltiples funcionalidades en el sistema del robot.
+- Desarrollo de API REST y gestión de base de datos con Prisma y SQL.
+- Coordinación del equipo de desarrollo y definición de tareas técnicas.
+- Implementación de prácticas DevOps con Docker para entornos de desarrollo y producción.
+- Optimización de la arquitectura backend y mejoras continuas en la interfaz móvil.
+
+**Empresa:** IntecRobots (Elche, Alicante)  
+**Web:** https://www.intecrobots.es  
+**Contacto:** esther@intecrobots.es
 
 ## 🌱 **Aprendiendo y mejorando en:**  
 - 🖥 **Desarrollo Full-Stack**  
