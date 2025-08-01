@@ -6,10 +6,11 @@
 
 Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, Alicante), desarrollando el software de un **robot recepcionista inteligente** utilizado principalmente en clínicas u hoteles. Aquí mi rol y responsabilidades:
 
-- Utilizo tecnologías como **React Native**, **TypeScript**, **Node.js**, **SQL**, **Docker**, **Prisma**, **NestJS** y **GitHub**.
+- Utilizo tecnologías como **React Native**, **TypeScript**, **Node.js**, **SQL**, **Docker**, **Prisma**, **NestJS**, **kotlin**, **Asana**, **Figma**, **Xcode** y **GitHub**.
 - Integración de múltiples funcionalidades en el sistema del robot.
 - Desarrollo de API REST y gestión de base de datos con Prisma y SQL.
 - Coordinación del equipo de desarrollo y definición de tareas técnicas.
+- Gestión cliente y proyectos.
 - Implementación de prácticas DevOps con Docker para entornos de desarrollo y producción.
 - Optimización de la arquitectura backend y mejoras continuas en la interfaz móvil.
 
@@ -30,12 +31,16 @@ Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, 
 💻 **Desarrollo de software, desarrollo web, Java, JavaScript y lógica de videojuegos** 🚀  
 
 ## 📚 **Formación:**  
+🎓 **Ingeniería Informática (Cursando)**  
+💻 **Bootcamp Incibe Ciberseguridad -Blue Team (Cursando)**
+💻 **Bootcamp Incibe Ciberseguridad -Red Team (Cursando)**
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**  
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**  
 💻 **Bootcamp de Desarrollo Web en Ironhack**  
 
 ## 📫 **Contáctame:**  
-✉️ **elopezp8@gmail.com**  
+✉️ **elopezp8@gmail.com**
+✉️ **esther@intecrobots.es**
 
 ## 📄 **Conoce más sobre mis experiencias:**  
 🔗 [**Descubre mis proyectos en desarrollo web, mecánicas de juegos y aplicaciones Full-Stack.**](#)   Working in progess....🚀  
