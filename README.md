@@ -1,7 +1,5 @@
 ![Header](./myheader.png)
 
-<h1 align="center">Holaa 👋, Soy Esther Lopez Perez</h1>
-
 # 🚀 **Desarrolladora apasionada desde España** 💡  
 
 ## 🔭 **Actualmente trabajando en:**
