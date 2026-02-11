@@ -37,7 +37,7 @@ Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, 
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**   
 🎓 **Técnico Superior en Desarrollo de Aplicaciones Web (DAW)**  
 
-💻 **Bootcamp Incibe Ciberseguridad -Red Team**
+💻 **Bootcamp Incibe Ciberseguridad -Red Team** 
 💻 **Bootcamp de Desarrollo Web en Ironhack**  
 
 ## 📫 **Contáctame:**  
