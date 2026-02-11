@@ -16,7 +16,7 @@ Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, 
 
 **Empresa:** IntecRobots (Elche, Alicante)  
 **Web:** https://www.intecrobots.es  
-**Contacto:** esther@intecrobots.es
+**Contacto:** e.lopez@intecrobots.com
 
 **Curriculum web:** (https://www.jobfie.es/cv/estherlopezperez1) 
 
@@ -41,7 +41,7 @@ Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, 
 
 ## 📫 **Contáctame:**  
 ✉️ **elopezp8@gmail.com**
-✉️ **esther@intecrobots.es**
+✉️ **e.lopez@intecrobot.com**
 
 ## 📄 **Conoce más sobre mis experiencias:**  
 🔗 [**Descubre mis proyectos en desarrollo web, mecánicas de juegos y aplicaciones Full-Stack.**](#)   Working in progess....🚀  
