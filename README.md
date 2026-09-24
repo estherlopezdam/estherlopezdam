@@ -16,7 +16,7 @@ Actualmente trabajo como **programadora Full Stack** en **IntecRobots** (Elche, 
 
 **Empresa:** IntecRobots (Elche, Alicante)  
 **Web:** https://www.intecrobots.es  
-**Contacto:** e.lopez@intecrobots.com
+**Contacto:** elopezp8@gmail.com
 
 
 
